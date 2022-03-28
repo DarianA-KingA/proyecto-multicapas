@@ -1,0 +1,10 @@
+C:\Users\Darian\source\repos\MANTENIMIENTO_PRODUCTOS\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Darian\source\repos\MANTENIMIENTO_PRODUCTOS\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Darian\source\repos\MANTENIMIENTO_PRODUCTOS\CapaEntidad\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Darian\source\repos\MANTENIMIENTO_PRODUCTOS\CapaEntidad\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Darian\source\repos\MANTENIMIENTO_PRODUCTOS\CapaEntidad\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Darian\source\repos\MANTENIMIENTO_PRODUCTOS\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Darian\source\repos\MANTENIMIENTO_PRODUCTOS\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Darian\source\repos\MANTENIMIENTO_PRODUCTOS\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\Darian\source\repos\MANTENIMIENTO_PRODUCTOS\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Darian\source\repos\MANTENIMIENTO_PRODUCTOS\CapaEntidad\obj\Debug\CapaEntidad.pdb
